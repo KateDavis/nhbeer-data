@@ -1,4 +1,6 @@
-[{ "type": "Feature", "properties": { "title": "Barb's Beer Emporium", "address": "249 Sheep Davis Rd, Concord, NH, United States", "latitude": "43.213992", "longitude": "-71.483751", "marker-color": "#4f4", "marker-size": "small", "marker-symbol": "alcohol-shop", "type": "beer-store" }, "geometry": { "type": "Point", "coordinates": [ -71.483751, 43.213992 ] } },
+{
+    "type": "FeatureCollection",
+        "features": [{ "type": "Feature", "properties": { "title": "Barb's Beer Emporium", "address": "249 Sheep Davis Rd, Concord, NH, United States", "latitude": "43.213992", "longitude": "-71.483751", "marker-color": "#4f4", "marker-size": "small", "marker-symbol": "alcohol-shop", "type": "beer-store" }, "geometry": { "type": "Point", "coordinates": [ -71.483751, 43.213992 ] } },
 { "type": "Feature", "properties": { "title": "Bert's Better Beers", "address": "1100 Hooksett Rd, Hooksett, NH, United States", "latitude": "43.028973", "longitude": "-71.438385", "marker-color": "#4f4", "marker-size": "small", "marker-symbol": "alcohol-shop", "type": "beer-store" }, "geometry": { "type": "Point", "coordinates": [ -71.438385, 43.028973 ] } },
 { "type": "Feature", "properties": { "title": "Brewtopia", "address": "40 Washington St, Keene, NH, United States", "latitude": "42.935423", "longitude": "-72.277818", "marker-color": "#4f4", "marker-size": "small", "marker-symbol": "alcohol-shop", "type": "beer-store" }, "geometry": { "type": "Point", "coordinates": [ -72.27782, 42.935423 ] } },
 { "type": "Feature", "properties": { "title": "Case N'Keg", "address": "855 Union Ave, Laconia, NH, United States", "latitude": "43.5485", "longitude": "-71.461753", "marker-color": "#4f4", "marker-size": "small", "marker-symbol": "alcohol-shop", "type": "beer-store" }, "geometry": { "type": "Point", "coordinates": [ -71.461753, 43.5485 ] } },
@@ -95,4 +97,5 @@
 { "type": "Feature", "properties": { "title": "Waxy O'Connors Irish Pub", "address": "401 Winchester St, Keene, NH, United States", "latitude": "42.921794", "longitude": "-72.291352", "marker-color": "#f44", "marker-size": "small", "marker-symbol": "restaurant", "type": "restaurant" }, "geometry": { "type": "Point", "coordinates": [ -72.291352, 42.921794 ] } },
 { "type": "Feature", "properties": { "title": "Wild Rover Pub", "address": "21 Kosciuszko St, Manchester, NH, United States", "latitude": "42.994023", "longitude": "-71.461657", "marker-color": "#f44", "marker-size": "small", "marker-symbol": "restaurant", "type": "restaurant" }, "geometry": { "type": "Point", "coordinates": [ -71.461657, 42.994023 ] } },
 { "type": "Feature", "properties": { "title": "Wolfe's Tavern", "address": "90 N Main St, Wolfeboro, NH, United States", "latitude": "43.585044", "longitude": "-71.216596", "marker-color": "#f44", "marker-size": "small", "marker-symbol": "restaurant", "type": "restaurant" }, "geometry": { "type": "Point", "coordinates": [ -71.216596, 43.585044 ] } }
-];
+]
+};
